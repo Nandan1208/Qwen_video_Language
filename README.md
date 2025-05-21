@@ -12,3 +12,5 @@ Make sure you have Python 3.8+ installed. Then run:
 pip install git+https://github.com/huggingface/transformers
 pip install accelerate flash_attn
 pip install qwen_vl_utils av
+
+##change the video path in code to analyze the video  
